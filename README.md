@@ -1,4 +1,4 @@
-# Quiz App
+# Book List
 
 
 [![Tech Stack](https://img.shields.io/badge/HTML%20%7C%20CSS%20%7C%20JavaScript-black?style=flat-square)](#)
