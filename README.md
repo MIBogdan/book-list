@@ -1,18 +1,12 @@
 # Book List
-
-
 [![Tech Stack](https://img.shields.io/badge/HTML%20%7C%20CSS%20%7C%20JavaScript-black?style=flat-square)](#)
 
-
 > A simple web application that allows users to add, view, and manage books in a structured list.
-
 
 ## Overview
 **Book List** is a user-friendly web-based application that enables users to add books by entering their title, author, and ISBN number. The books are displayed in a structured table format, and users can remove them when needed. The project is designed to offer a simple and efficient way to manage a book collection.
 
-
 ## Preview
-
 <p align="center">
   <img src="preview.png" alt="Project Preview" width="600">
 </p>
@@ -22,7 +16,6 @@
 - **Book Display:** Books are shown in a structured table format for easy management.
 - **Delete Functionality:** Users can remove books from the list with a single click.
 - **Local Storage Support:** Saves book data locally to persist even after page refresh.
-
 
 ## Live Demo
 **Explore the live version here:** [View Live Demo](https://marius-bogdan.com/projects/book-list/)
@@ -34,7 +27,6 @@
    ```
 2. **Open** the `index.html` file in your browser
    *- or use a local development server (like VS Code Live Server) for a smoother development experience.*
-
 
 ---
 
